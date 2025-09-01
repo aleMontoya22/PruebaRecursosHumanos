@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AlejandroV\\Documents\\Visual Studio 2022\\RecursosHumanos\\RecursosHumanos\\RecursosHumanos.csproj",
+      "projectUniqueName": "C:\\Users\\AlejandroV\\Documents\\Visual Studio 2022\\PruebaRecursosHumanos\\RecursosHumanos\\RecursosHumanos.csproj",
       "projectName": "RecursosHumanos",
-      "projectPath": "C:\\Users\\AlejandroV\\Documents\\Visual Studio 2022\\RecursosHumanos\\RecursosHumanos\\RecursosHumanos.csproj",
+      "projectPath": "C:\\Users\\AlejandroV\\Documents\\Visual Studio 2022\\PruebaRecursosHumanos\\RecursosHumanos\\RecursosHumanos.csproj",
       "packagesPath": "C:\\Users\\AlejandroV\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AlejandroV\\Documents\\Visual Studio 2022\\RecursosHumanos\\RecursosHumanos\\obj\\",
+      "outputPath": "C:\\Users\\AlejandroV\\Documents\\Visual Studio 2022\\PruebaRecursosHumanos\\RecursosHumanos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

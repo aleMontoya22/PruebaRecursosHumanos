@@ -1,0 +1,7 @@
+C:\Users\AlejandroV\Documents\Visual Studio 2022\PruebaRecursosHumanos\RecursosHumanos\obj\Release\net8.0\PubTmp\Out\RecursosHumanos.exe
+C:\Users\AlejandroV\Documents\Visual Studio 2022\PruebaRecursosHumanos\RecursosHumanos\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\AlejandroV\Documents\Visual Studio 2022\PruebaRecursosHumanos\RecursosHumanos\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\AlejandroV\Documents\Visual Studio 2022\PruebaRecursosHumanos\RecursosHumanos\obj\Release\net8.0\PubTmp\Out\RecursosHumanos.dll
+C:\Users\AlejandroV\Documents\Visual Studio 2022\PruebaRecursosHumanos\RecursosHumanos\obj\Release\net8.0\PubTmp\Out\RecursosHumanos.deps.json
+C:\Users\AlejandroV\Documents\Visual Studio 2022\PruebaRecursosHumanos\RecursosHumanos\obj\Release\net8.0\PubTmp\Out\RecursosHumanos.runtimeconfig.json
+C:\Users\AlejandroV\Documents\Visual Studio 2022\PruebaRecursosHumanos\RecursosHumanos\obj\Release\net8.0\PubTmp\Out\RecursosHumanos.pdb

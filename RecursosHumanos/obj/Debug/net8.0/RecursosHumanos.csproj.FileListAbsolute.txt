@@ -88,3 +88,4 @@ C:\Users\AlejandroV\Documents\Visual Studio 2022\PruebaRecursosHumanos\RecursosH
 C:\Users\AlejandroV\Documents\Visual Studio 2022\PruebaRecursosHumanos\RecursosHumanos\obj\Debug\net8.0\RecursosHumanos.pdb
 C:\Users\AlejandroV\Documents\Visual Studio 2022\PruebaRecursosHumanos\RecursosHumanos\obj\Debug\net8.0\RecursosHumanos.genruntimeconfig.cache
 C:\Users\AlejandroV\Documents\Visual Studio 2022\PruebaRecursosHumanos\RecursosHumanos\obj\Debug\net8.0\ref\RecursosHumanos.dll
+C:\Users\AlejandroV\Documents\Visual Studio 2022\PruebaRecursosHumanos\RecursosHumanos\bin\Debug\net8.0\Newtonsoft.Json.dll

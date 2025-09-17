@@ -17,10 +17,10 @@ builder.Configuration
 
 // Configurar DbContext usando la cadena del web.config
 builder.Services.AddDbContext<RecursosHumanos.Models.DBContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection1")));
 
 builder.Services.AddDbContext<RecursosHumanos.Models.DBContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection1"))
            .EnableSensitiveDataLogging()
            .LogTo(Console.WriteLine, LogLevel.Information));
 
@@ -31,7 +31,7 @@ builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationSc
         options.AccessDeniedPath = "/Login/AccessDenied";
     });
 
-var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection1");
 Console.WriteLine($"Cadena de conexión utilizada: {connectionString}");
 
 var app = builder.Build();

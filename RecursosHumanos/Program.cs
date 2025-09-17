@@ -9,8 +9,11 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddSignalR();
 
-// ?? Cargar también configuraciones desde web.config
-builder.Configuration.AddXmlFile("web.config", optional: true, reloadOnChange: true);
+builder.Configuration
+    .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+    .AddJsonFile($"appsettings.{builder.Environment.EnvironmentName}.json", optional: true)
+    .AddUserSecrets<Program>(optional: true)   // para desarrollo
+    .AddEnvironmentVariables(); // opcional: para servidores que soportan variables de entorno
 
 // Configurar DbContext usando la cadena del web.config
 builder.Services.AddDbContext<RecursosHumanos.Models.DBContext>(options =>

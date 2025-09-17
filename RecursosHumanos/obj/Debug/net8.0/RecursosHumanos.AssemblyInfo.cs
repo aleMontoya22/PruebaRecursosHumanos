@@ -17,6 +17,7 @@ using System.Reflection;
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cb2f2877791cc356b95faae69b8a72866bff387")]
 =======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+662231815553d1dbeac54e9205ce21f5aa839d79")]
@@ -26,6 +27,9 @@ using System.Reflection;
 >>>>>>> Alejandro
 =======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20ce9f74fb37c434d94430692bfbe3feadca98e0")]
+>>>>>>> Alejandro
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd72b7cd77b1e2ac95f22c0d6b6669d76200232f")]
 >>>>>>> Alejandro
 [assembly: System.Reflection.AssemblyProductAttribute("RecursosHumanos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecursosHumanos")]

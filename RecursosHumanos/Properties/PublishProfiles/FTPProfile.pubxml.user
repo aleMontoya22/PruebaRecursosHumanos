@@ -5,7 +5,7 @@
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAteWEl+OerUGfW4Tm1oEYTQAAAAACAAAAAAAQZgAAAAEAACAAAAAn9lVOJDsOrbV91l4c3BBxZRIvvLqKXe+5hYrDwuUFAAAAAAAOgAAAAAIAACAAAAD3N31P0Q08HnV7uwhKro7MpBKUKhkOhXojoIj3PDiUcCAAAABZKUtdmyFZMqyVMuzvmtASU/1IroY067xfw5r8MwDQpkAAAADKGeSi1HT8JRzIwaTnM+Vyj3+zWcze1Bre4SaxF2BYa/GP4Jf/q/GJ+Ma+2EhwGQRkjW0A7qNBkt7sNauyp9hG</EncryptedPassword>
     <_PublishTargetUrl>ftp://155.254.244.27/www.pruebarecursoshumanos.somee.com</_PublishTargetUrl>
-    <History>True|2025-09-17T16:16:24.7035141Z||;True|2025-09-17T09:58:35.5243663-06:00||;True|2025-09-17T09:48:56.6224257-06:00||;True|2025-09-17T08:55:59.7942895-06:00||;True|2025-09-16T15:29:28.5280307-06:00||;True|2025-09-11T07:50:37.1858923-06:00||;</History>
+    <History>True|2025-09-17T17:22:14.4551166Z||;True|2025-09-17T10:16:24.7035141-06:00||;True|2025-09-17T09:58:35.5243663-06:00||;True|2025-09-17T09:48:56.6224257-06:00||;True|2025-09-17T08:55:59.7942895-06:00||;True|2025-09-16T15:29:28.5280307-06:00||;True|2025-09-11T07:50:37.1858923-06:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
@@ -16,7 +16,7 @@
       <publishTime>09/16/2025 15:21:29</publishTime>
     </File>
     <File Include="appsettings.Production.json">
-      <publishTime>09/17/2025 10:11:40</publishTime>
+      <publishTime>09/17/2025 10:32:56</publishTime>
     </File>
     <File Include="Azure.Core.dll">
       <publishTime>02/26/2024 09:24:40</publishTime>
@@ -103,22 +103,22 @@
       <publishTime>03/24/2018 11:44:14</publishTime>
     </File>
     <File Include="RecursosHumanos.deps.json">
-      <publishTime>09/17/2025 10:12:36</publishTime>
+      <publishTime>09/17/2025 11:18:11</publishTime>
     </File>
     <File Include="RecursosHumanos.dll">
-      <publishTime>09/17/2025 10:12:35</publishTime>
+      <publishTime>09/17/2025 11:18:10</publishTime>
     </File>
     <File Include="RecursosHumanos.exe">
-      <publishTime>09/17/2025 10:12:35</publishTime>
+      <publishTime>09/17/2025 11:18:10</publishTime>
     </File>
     <File Include="RecursosHumanos.pdb">
-      <publishTime>09/17/2025 10:12:35</publishTime>
+      <publishTime>09/17/2025 11:18:10</publishTime>
     </File>
     <File Include="RecursosHumanos.runtimeconfig.json">
-      <publishTime>09/16/2025 15:25:44</publishTime>
+      <publishTime>09/17/2025 11:18:11</publishTime>
     </File>
     <File Include="RecursosHumanos.staticwebassets.endpoints.json">
-      <publishTime>09/16/2025 15:25:57</publishTime>
+      <publishTime>09/17/2025 10:32:56</publishTime>
     </File>
     <File Include="runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll">
       <publishTime>08/19/2025 16:14:14</publishTime>
@@ -202,7 +202,7 @@
       <publishTime>10/22/2021 17:49:44</publishTime>
     </File>
     <File Include="web.config">
-      <publishTime>09/17/2025 10:12:36</publishTime>
+      <publishTime>09/17/2025 11:18:25</publishTime>
     </File>
     <File Include="wwwroot/css/site.css">
       <publishTime>09/11/2025 14:01:00</publishTime>

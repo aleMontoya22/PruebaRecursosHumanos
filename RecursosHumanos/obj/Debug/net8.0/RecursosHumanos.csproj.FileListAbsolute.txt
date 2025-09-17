@@ -1,4 +1,3 @@
-C:\Users\AlejandroV\Documents\Visual Studio 2022\PruebaRecursosHumanos\RecursosHumanos\bin\Debug\net8.0\web.config
 C:\Users\AlejandroV\Documents\Visual Studio 2022\PruebaRecursosHumanos\RecursosHumanos\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\AlejandroV\Documents\Visual Studio 2022\PruebaRecursosHumanos\RecursosHumanos\bin\Debug\net8.0\appsettings.json
 C:\Users\AlejandroV\Documents\Visual Studio 2022\PruebaRecursosHumanos\RecursosHumanos\bin\Debug\net8.0\appsettings.Production.json

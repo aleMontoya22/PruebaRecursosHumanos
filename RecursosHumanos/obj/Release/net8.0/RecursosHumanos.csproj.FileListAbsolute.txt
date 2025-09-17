@@ -89,5 +89,4 @@ C:\Users\AlejandroV\Documents\Visual Studio 2022\PruebaRecursosHumanos\RecursosH
 C:\Users\AlejandroV\Documents\Visual Studio 2022\PruebaRecursosHumanos\RecursosHumanos\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\AlejandroV\Documents\Visual Studio 2022\PruebaRecursosHumanos\RecursosHumanos\obj\Release\net8.0\RecursosHumanos.csproj.AssemblyReference.cache
 C:\Users\AlejandroV\Documents\Visual Studio 2022\PruebaRecursosHumanos\RecursosHumanos\obj\Release\net8.0\Recursos.B20A225E.Up2Date
-C:\Users\AlejandroV\Documents\Visual Studio 2022\PruebaRecursosHumanos\RecursosHumanos\bin\Release\net8.0\web.config
 C:\Users\AlejandroV\Documents\Visual Studio 2022\PruebaRecursosHumanos\RecursosHumanos\bin\Release\net8.0\appsettings.Production.json

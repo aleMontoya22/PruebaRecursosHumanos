@@ -1,12 +1,20 @@
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
 using RecursosHumanos.Models;
+using System.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddSignalR();
+
+// ?? Cargar también configuraciones desde web.config
+builder.Configuration.AddXmlFile("web.config", optional: true, reloadOnChange: true);
+
+// Configurar DbContext usando la cadena del web.config
+builder.Services.AddDbContext<RecursosHumanos.Models.DBContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddDbContext<RecursosHumanos.Models.DBContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
